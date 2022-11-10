@@ -1,0 +1,47 @@
+city_start,city_end,distance,distance_end_from_bucharest
+zerind,arad,75,366
+timisoara,arad,118,366
+sibiu,arad,140,366
+urcizeni,bucharest,85,0
+pitesti,bucharest,101,0
+giurgiu,bucharest,90,0
+fagaras,bucharest,211,0
+rimnicu vilcea,craiova,146,160
+pitesti,craiova,138,160
+dobreta,craiova,120,160
+mehadia,dobreta,75,242
+craiova,dobreta,120,242
+hirsova,eforie,86,161
+sibiu,fagaras,99,178
+bucharest,fagaras,211,178
+bucharest,giurgiu,90,77
+urcizeni,hirsova,98,151
+eforie,hirsova,86,151
+vaslui,iasi,92,226
+neamt,iasi,87,226
+timisoara,lugoj,111,244
+mehadia,lugoj,70,244
+lugoj,mehadia,70,241
+dobreta,mehadia,75,241
+iasi,neamt,87,234
+zerind,oradea,71,380
+sibiu,oradea,151,380
+rimnicu vilcea,pitesti,97,98
+craiova,pitesti,138,98
+bucharest,pitesti,101,98
+sibiu,rimnicu vilcea,80,193
+pitesti,rimnicu vilcea,97,193
+craiova,rimnicu vilcea,146,193
+rimnicu vilcea,sibiu,80,253
+oradea,sibiu,151,253
+fagaras,sibiu,99,253
+arad,sibiu,140,253
+lugoj,timisoara,111,329
+arad,timisoara,118,329
+vaslui,urcizeni,142,80
+hirsova,urcizeni,98,80
+bucharest,urcizeni,85,80
+urcizeni,vaslui,142,199
+iasi,vaslui,92,199
+oradea,zerind,71,374
+arad,zerind,75,374
